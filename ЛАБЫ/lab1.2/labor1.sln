@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1", "labor1\zad1.csproj", "{DC9DF5B6-8F53-46E4-B14C-5FE64F23B8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2", "zad2\zad2.csproj", "{F2FB879B-B97F-46A1-A655-7629A1C333CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1.Tests", "BracketCheckers.Tests\zad1.Tests.csproj", "{653D79AA-7D13-4369-AC46-ECA24958DA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9DF5B6-8F53-46E4-B14C-5FE64F23B8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9DF5B6-8F53-46E4-B14C-5FE64F23B8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9DF5B6-8F53-46E4-B14C-5FE64F23B8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9DF5B6-8F53-46E4-B14C-5FE64F23B8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FB879B-B97F-46A1-A655-7629A1C333CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FB879B-B97F-46A1-A655-7629A1C333CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FB879B-B97F-46A1-A655-7629A1C333CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FB879B-B97F-46A1-A655-7629A1C333CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653D79AA-7D13-4369-AC46-ECA24958DA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653D79AA-7D13-4369-AC46-ECA24958DA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653D79AA-7D13-4369-AC46-ECA24958DA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653D79AA-7D13-4369-AC46-ECA24958DA09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BC325C-89F3-43EC-8AE4-4DC56BC7F8DB}
+	EndGlobalSection
+EndGlobal
